@@ -55,7 +55,7 @@ class MainMenu:
             text="SKETCH GENERATION & IDENTITY VERIFICATION",
             font=("Helvetica", 22, "bold"), fill="#1565c0")
         self.bg.create_text(cx, int(H*0.24),
-            text="AI-Powered Forensic Face Recognition  |  @Jerusalem College of Engineering",
+            text="AI-Powered Forensic Face Recognition  |  @Erode Sengunthar Engineering College",
             font=("Helvetica", 11), fill="#5c85b3")
 
         # Divider
